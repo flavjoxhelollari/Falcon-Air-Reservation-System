@@ -1,0 +1,16 @@
+Ticket Number: 482477665
+Type: Two-way
+Name: Flavjo
+Surname : Xhelollari
+Date: 12/9/2019 12:00:00 AM
+Seat: 22A
+
+
+Ticket Number: 1464694718
+Type: One-way
+Name: Adem
+Surname : Jashari
+Date: 11/30/2019 12:00:00 AM
+Seat: 25C
+
+
